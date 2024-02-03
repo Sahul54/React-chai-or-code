@@ -1,8 +1,13 @@
-
+import  Chai from "./chai.js";
 
 function App() {
   return (
-      <h1>Welcome to ReactApp  | This lecture to under stand the to manuplate the web page and</h1>
+    
+     <>   
+     <Chai /> 
+    {/* // <h1>Welcome to ReactApp  | This lecture to under stand the to manuplate the web page and</h1> */}
+
+    </> 
   );
 }
 
